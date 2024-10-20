@@ -1,0 +1,8 @@
+[user]
+	name = ...
+	email = ...
+[core]
+	editor = vim
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main

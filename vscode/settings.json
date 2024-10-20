@@ -1,0 +1,244 @@
+{
+  // ROOT
+  "workbench.settings.editor": "json",
+  "security.workspace.trust.enabled": false,
+  "remote.autoForwardPortsSource": "hybrid",
+  "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "editor.rulers": [140, 160],
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+
+  "window.commandCenter": false,
+  "zenMode.centerLayout": true,
+  "workbench.layoutControl.type": "menu",
+  "workbench.layoutControl.enabled": false,
+
+  // Имеют Ligatures
+  // "editor.fontFamily": "Anonymous Pro, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "Anonymous Pro, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "Anonymous Pro, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "Monoid Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "Monoid Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "Monoid Nerd Font Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "Cascadia Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "Cascadia Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "Cascadia Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "FiraCode Nerd Font, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "FiraCode Nerd Font, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "FiraCode Nerd Font, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "JetBrainsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "JetBrainsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "Hasklug Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "Hasklug Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "Hasklug Nerd Font Mono, Consolas, 'Courier New', monospace",
+
+  // Не имеют Ligatures
+  "editor.fontFamily": "Oxygen Mono, Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Oxygen Mono, Consolas, 'Courier New', monospace",
+  "editor.codeLensFontFamily": "Oxygen Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "ProFont IIx Nerd Font, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "ProFont IIx Nerd Font, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "ProFont IIx Nerd Font, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "ComicShannsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "ComicShannsMono Nerd Font Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "MonoLisa Trial, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "MonoLisa Trial, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "MonoLisa Trial, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "Roboto Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "Roboto Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "Roboto Mono, Consolas, 'Courier New', monospace",
+
+  // "editor.fontFamily": "BitstromWera Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "terminal.integrated.fontFamily": "BitstromWera Nerd Font Mono, Consolas, 'Courier New', monospace",
+  // "editor.codeLensFontFamily": "BitstromWera Nerd Font Mono, Consolas, 'Courier New', monospace",
+
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 22,
+  "editor.fontLigatures": true,
+  "editor.fontVariations": true,
+  "window.zoomLevel": -2,
+  "editor.mouseWheelZoom": true,
+
+  // ANIMATIONS
+  "editor.cursorBlinking": "expand",
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+
+  // WORKBENCH
+  "workbench.startupEditor": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": true,
+  "application.experimental.rendererProfiling": false,
+
+  // // WORKBENCH - EDITOR
+  "workbench.editor.showTabs": "multiple",
+  "workbench.editor.tabSizing": "fit",
+  "workbench.editor.highlightModifiedTabs": false,
+  "workbench.editor.pinnedTabsOnSeparateRow": false,
+  "workbench.editor.tabActionCloseVisibility": false,
+
+  "errorLens.enabled": true,
+
+  "editor.hover.enabled": true,
+  "editor.hover.above": true,
+  "editor.hover.delay": 300,
+  "files.associations": {
+    ".env*": "dotenv",
+    "*.env": "dotenv"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.verticalScrollbarSize": 6,
+  "editor.scrollbar.horizontalScrollbarSize": 6,
+
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.tabSize": 2,
+  "editor.experimentalWhitespaceRendering": "font",
+  "editor.parameterHints.enabled": true,
+  "editor.showDeprecated": true,
+
+  "editor.dragAndDrop": true,
+  // "editor.glyphMargin": false,
+
+  "editor.folding": true,
+  "editor.foldingHighlight": true,
+  "editor.showFoldingControls": "mouseover",
+  "editor.defaultColorDecorators": true,
+
+  "editor.rename.enablePreview": true,
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+
+  // "workbench.commandPalette.experimental.suggestCommands": true,
+  "editor.snippets.codeActions.enabled": true,
+  "editor.snippetSuggestions": "inline",
+  "editor.suggest.showSnippets": true,
+  "editor.suggest.preview": true,
+  "editor.suggest.showKeywords": true,
+  // "editor.suggest.showWords": false,
+
+  // // WORKBENCH - EXPLORER
+  "explorer.compactFolders": false,
+  "explorer.excludeGitIgnore": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": false
+    // "**/.next": true,
+  },
+
+  // // WORKBENCH - GIT
+  "multiDiffEditor.experimental.enabled": true,
+  "diffEditor.experimental.showMoves": true,
+  "merge-conflict.diffViewPosition": "Current",
+  "git.autofetch": true,
+  "git.mergeEditor": true,
+  "git.requireGitUserConfig": true,
+
+  // // ==========================
+  "vim.useSystemClipboard": true,
+  "dotenv.enableAutocloaking": false,
+
+  // // Checkers | linters | formatters
+  "cSpell.enabled": true,
+  "cSpell.language": "en,ru,ru-RU",
+
+  // "eslint.codeActionsOnSave.mode": "all",
+  // "eslint.validate": ["javascript"],
+  // "eslint.format.enable": true,
+  // "eslint.experimental.useFlatConfig": true,
+  // "editor.formatOnSave": false,
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": "explicit",
+  //   "source.fixAll": "explicit"
+  // },
+
+  // // EXTENSIONS
+  "codeium.enableCodeLens": true,
+  "githubPullRequests.pullBranch": "never",
+
+  // Languages
+
+  // Languages - TS & JS
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  // "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  // "typescript.inlayHints.parameterNames.enabled": "all",
+  // "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  // "typescript.inlayHints.parameterTypes.enabled": true,
+  // "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  // "typescript.inlayHints.variableTypes.enabled": true,
+  // "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
+
+  "[javascript][typescript][typescriptreact]": {
+    // "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.tsserver.log": "off",
+
+  "workbench.editor.preferHistoryBasedLanguageDetection": true,
+
+  // // LANGUAGES - OTHER
+  "[html][json][jsonc][css][scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.shellIntegration.history": 40000,
+  "terminal.integrated.scrollback": 40000,
+  "redhat.telemetry.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "symbols.hidesExplorerArrows": false,
+  "sherlock.userId": "dadb7989-451e-41ef-9a64-d85a96295585",
+  "i18n-ally.editor.preferEditor": true,
+  "i18n-ally.displayLanguage": "ru",
+  "git.openRepositoryInParentFolders": "always",
+  "cSpell.enableFiletypes": ["mdx"],
+  "i18n-ally.ignoredLocales": [],
+  "[tailwindcss]": {
+    "workbench.editor.restoreViewState": true
+  },
+  "editor.codeActionsOnSave": {},
+  "i18n-ally.fullReloadOnChanged": true,
+  "i18n-ally.namespace": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[mdx]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true
+  },
+  "workbench.activityBar.location": "top",
+  "window.newWindowProfile": null
+}

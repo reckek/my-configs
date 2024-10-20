@@ -1,0 +1,8 @@
+# All package lock files (npm-lock, yarn-lock, pnpm-lock, ...)
+*-lock.*
+
+# Workspace vscode settings
+.vscode/**/*
+
+# Add all files with ?_ to git ignore
+?_*

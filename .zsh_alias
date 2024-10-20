@@ -1,0 +1,8 @@
+alias aptu="sudo apt update && sudo apt upgrade -y"
+
+alias ls="eza --git -x --tree --level=1 --icons=auto --group-directories-first --group --all"
+alias lsd="eza --git -x --tree --long --level=1 --icons=auto --group-directories-first --group --all"
+
+# Development
+alias dockerup="sudo docker-compose up"
+alias sv="ssh -R 80:localhost:3000 localhost.run"
